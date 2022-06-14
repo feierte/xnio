@@ -46,6 +46,7 @@
     <modules>
         <module>api</module>
         <module>nio-impl</module>
+        <module>xnio-demo</module>
     </modules>
 
     <properties>
